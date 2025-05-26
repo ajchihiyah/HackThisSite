@@ -1,6 +1,6 @@
 # HackThisSite Challenge Solutions
 
-This repository serves as a storage for my solutions/writeups for challenges found on [HackThisSite](https://www.hackthissite.org/ "HackThisSite Website."). Challenges are divided into the following nine different categories.
+This repository contains my solutions and writeups for challenges completed on [HackThisSite](https://www.hackthissite.org/ "HackThisSite Website."). Challenges are divided into the following nine different categories.
 
 * [Basic](https://www.hackthissite.org/missions/basic/ "Basic Challenges On HackThisSite")
 
